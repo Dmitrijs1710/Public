@@ -1,1 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T19:07:34.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.6.0" etag="iPdrlCn1BqJI6CPUpHu_" type="github"><diagram id="KEli7zmi6-K2jNrPwm7i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-14T19:34:24.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="vzMmlZKdNF0tE3u-zX5S" version="14.6.0" type="github">
+  <diagram id="KEli7zmi6-K2jNrPwm7i" name="Page-1">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="330" as="sourcePoint" />
+            <mxPoint x="310" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-2" value="Metamask users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-4" target="lTDrUurJxT6qvUCSxGPU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-4" value="deposit eth=&amp;gt;get token ETH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="75" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-5" target="lTDrUurJxT6qvUCSxGPU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-5" value="transfer token to BNB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-7" value="deposit token(BNB or ETH)=&amp;gt;withdraw Eth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-9" target="lTDrUurJxT6qvUCSxGPU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-9" target="lTDrUurJxT6qvUCSxGPU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-9" value="Providers(ETH)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-10" value="transfer token to ETH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-13" value="deposit BNB =&amp;gt;get token BNB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="75" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-14" value="deposit token(ETH or BNB)=&amp;gt;withdraw BNB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-16" target="lTDrUurJxT6qvUCSxGPU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-16" target="lTDrUurJxT6qvUCSxGPU-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-16" value="Providers(BNB)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-21" target="lTDrUurJxT6qvUCSxGPU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-21" target="lTDrUurJxT6qvUCSxGPU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-21" value="user sends eth&lt;br&gt;to manager" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="62.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-23" value="user pays gas in ETH" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="62.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-25" target="lTDrUurJxT6qvUCSxGPU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-25" target="lTDrUurJxT6qvUCSxGPU-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="40" />
+              <mxPoint x="630" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-25" value="manager account receives eth&lt;br&gt;and sends tokens to the senders account" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-27" value="manager pays gas&lt;br&gt;in ETH" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-32" target="lTDrUurJxT6qvUCSxGPU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-32" target="lTDrUurJxT6qvUCSxGPU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-32" target="lTDrUurJxT6qvUCSxGPU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-32" value="user sends ETH tokens to manager" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-34" value="user pays gas in ETH" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-36" target="lTDrUurJxT6qvUCSxGPU-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-36" target="lTDrUurJxT6qvUCSxGPU-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-36" value="manager sends BNB tokens to user" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-38" value="manager pays gas in BNB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="135" />
+              <mxPoint x="750" y="135" />
+              <mxPoint x="750" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-40" value="smart contract ETH token" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-42" value="smart contract BNB Token" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-44" value="gas problem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-51" target="lTDrUurJxT6qvUCSxGPU-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="560" />
+              <mxPoint x="670" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-51" target="lTDrUurJxT6qvUCSxGPU-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-51" target="lTDrUurJxT6qvUCSxGPU-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-51" value="user sends ETH or BNB token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-54" value="or" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-55" value="pays gas ETH or BNB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTDrUurJxT6qvUCSxGPU-57" target="lTDrUurJxT6qvUCSxGPU-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-57" value="manager sends ETH or BNB to sender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTDrUurJxT6qvUCSxGPU-60" value="pays gas ETH or BNB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
